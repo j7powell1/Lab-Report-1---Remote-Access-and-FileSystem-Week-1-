@@ -3,3 +3,5 @@
 In order to connect remotely you will need VS Code installed. There are many video guides on how to install and set up VS code. If you have met the prerequisites for this course you will more than likely already have VS code installed.
 Once Installed you should see this:
 ![Image](unnamed.png)
+## Step 2 Connect Remotely:
+Now that you have VS Code installed you will be installing bash to use within VS code. If you are on Windows like I am you will use this [Link](https://gitforwindows.org/). 
