@@ -4,4 +4,5 @@ In order to connect remotely you will need VS Code installed. There are many vid
 Once Installed you should see this:
 ![Image](unnamed.png)
 ## Step 2 Connect Remotely:
-Now that you have VS Code installed you will be installing bash to use within VS code. If you are on Windows like I am you will use this [Link](https://gitforwindows.org/). 
+Now that you have VS Code installed you will be installing bash to use within VS code. If you are on Windows like I am you will use this [Link](https://gitforwindows.org/). If you have not used bash previously follow this [Link](https://stackoverflow.com/a/50527994). From here you will open your terminal and enter $ ssh cs15lsp23zz@ieng6.ucsd.edu with the zz being your own unique ID. After following the prompt you should be met with a screen similar to this:
+![Image](2nd.png)
