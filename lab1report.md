@@ -17,3 +17,5 @@ Now that you have VS Code installed you will be installing bash to use within VS
 In order to get familar you should try running some commands such as cd, ls , pwd,mkdir, etc to see how the terminal reacts. For example I used the command ls -lat and recieved this:
 ***
 ![Image](3rd.png)
+***
+## Congrats you are now ready to get started.
